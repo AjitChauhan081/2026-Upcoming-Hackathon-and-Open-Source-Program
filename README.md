@@ -60,21 +60,21 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
-            <td><strong>HackOn with Amazon (Upcoming)</strong></td>
+            <td><strong>HackOn with Amazon </strong></td>
             <td><span class="expected-timeline">May - June</span></td>
             <td><span class="status-note"> N/A</span></td>
             <td><a href="https://unstop.com/hackathons/hackon-with-amazon-season-5-amazon-1473780" target="_blank">Season 5 (2025)</a></td>
             <td><a href="https://unstop.com/hackathons/hackon-with-amazon-season-4-amazon-959046" target="_blank">Season 4 (2024)</a></td>
         </tr>
        <tr>
-            <td><strong>Amazon ML Challenge (Upcoming)</strong></td>
+            <td><strong>Amazon ML Challenge </strong></td>
             <td><span class="expected-timeline">September - October</span></td>
             <td><span class="status-note"> N/A</span></td>
             <td><a href="https://unstop.com/hackathons/amazon-ml-challenge-2025-amazon-1560375" target="_blank">2025 Link</a></td>
             <td><a href="https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713" target="_blank">2024 Link</a></td>
         </tr>
         <tr>
-            <td><strong>Flipkart Grid (SD Track) (Upcoming)</strong></td>
+            <td><strong>Flipkart Grid (SD Track) </strong></td>
             <td><span class="expected-timeline">July - August</span></td>
             <td><span class="status-note"> N/A</span></td>
             <td><a href="https://unstop.com/hackathons/flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247" target="_blank">Grid 6.0 (2025)</a></td>
