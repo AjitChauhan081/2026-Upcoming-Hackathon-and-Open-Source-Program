@@ -73,6 +73,15 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
+            <td><strong>CodeVita Season 15(TCS)</strong></td>
+            <td><span class="expected-timeline">Sep-nov</span></td>
+            <td><ul>
+              <li>[Link](https://codevita.tcsapps.com/)</li>
+              </ul></td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <td><strong>Code For Good (J P Morgan)</strong></td>
             <td><span class="expected-timeline">March </span></td>
             <td><span class="status-note"> N/A</span>.</td>
