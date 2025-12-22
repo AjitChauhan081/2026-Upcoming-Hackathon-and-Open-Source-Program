@@ -73,7 +73,7 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
-            <td><strong>HackRx 6.0(Bajaj)</strong></td>
+            <td><strong>HackRx 7.0(Bajaj)</strong></td>
             <td><span class="expected-timeline">July-Aug</span></td>
             <td>NAN</td>
             <td>[Link](https://unstop.com/hackathons/hackrx-60-bajaj-finserv-1514382)</td>
