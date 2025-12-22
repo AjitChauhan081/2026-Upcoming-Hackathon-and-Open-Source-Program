@@ -89,6 +89,13 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
+            <td><strong>Adobe Hackathon</strong></td>
+            <td><span class="expected-timeline">July-Sep</span></td>
+            <td><span class="status-note"> N/A</span>.</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <td><strong>HackOn with Amazon </strong></td>
             <td><span class="expected-timeline">May - June</span></td>
             <td><span class="status-note"> N/A</span></td>
