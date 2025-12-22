@@ -73,7 +73,7 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
-            <td><strong>CodeVita Season 15(TCS)</strong></td>
+            <td><strong>CodeVita Season 14(TCS)</strong></td>
             <td><span class="expected-timeline">Sep-nov</span></td>
             <td><ul>
               <li>[Link](https://codevita.tcsapps.com/)</li>
