@@ -32,10 +32,10 @@ This repository serves as a centralized list for anticipated major hackathons, c
         </tr>
         <tr>
             <td><strong>Odoo x Adani University Hackathon '26</strong></td>
-            <td><span class="expected-timeline">Till Dec 21</span></td>
+            <td><span class="expected-timeline">Till Dec 28</span></td>
             <td>
                 <ul>
-                    <li><a href="https://hackathon.odoo.com/event/odoo-x-adani-university-hackathon-26-6/register">Live</a></li>
+                    <li><a href="https://hackathon.odoo.com/hackathon/event/odoo-x-gcet-hackathon-26-2">Live</a></li>
                 </ul>
             </td>
             <td>N/A </td>
