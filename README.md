@@ -64,6 +64,15 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
+            <td><strong>HackwithInfy 2026(Infosys)</strong></td>
+            <td><span class="expected-timeline">Feb</span></td>
+            <td><ul>
+              <li>Nan</li>
+              </ul></td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <td><strong>Code For Good (J P Morgan)</strong></td>
             <td><span class="expected-timeline">March </span></td>
             <td><span class="status-note"> N/A</span>.</td>
