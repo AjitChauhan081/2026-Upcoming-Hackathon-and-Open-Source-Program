@@ -80,6 +80,13 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A</td>
         </tr>
         <tr>
+            <td><strong>Code with Cisco(Cisco)</strong></td>
+            <td><span class="expected-timeline">~June</span></td>
+            <td>NAN</td>
+            <td>[Link](https://www.cisco.com/c/m/en_in/code-with-cisco.html)
+            <td>N/A</td>
+        </tr>
+        <tr>
             <td><strong>CodeVita Season 14(TCS)</strong></td>
             <td><span class="expected-timeline">Sep-nov</span></td>
             <td><ul>
