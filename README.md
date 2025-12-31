@@ -42,6 +42,17 @@ This repository serves as a centralized list for anticipated major hackathons, c
             <td>N/A </td>
         </tr>
         <tr>
+            <td><strong>ET Gen AI Hackathon</strong></td>
+            <td><span class="expected-timeline">Till January 25</span></td>
+            <td>
+                <ul>
+                    <li><a href="https://unstop.com/competitions/et-gen-ai-hackathon-economic-times-1608780">Live</a></li>
+                </ul>
+            </td>
+            <td>N/A </td>
+            <td>N/A </td>
+        </tr>
+        <tr>
             <td><strong>MLH Events & Fellowship</strong></td>
             <td><span class="expected-timeline">Open</span></td>
             <td>
